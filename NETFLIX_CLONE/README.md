@@ -1,4 +1,4 @@
-<h1 align = "center">🦉 OwlFlix</h1>
+<h1 align = "center">🦉 OWLFLIX</h1>
 
 <!--
 ## 🖥 Preview
