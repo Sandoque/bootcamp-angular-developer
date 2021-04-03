@@ -1,4 +1,4 @@
-<h1 align = "center">:rocket: Bootcamp Avanade Angular Developer</h1>
+<h1 align = "center">:rocket: OlwFlix</h1>
 
 <!--
 ## 🖥 Preview
@@ -20,7 +20,7 @@
 
 ## 📖 Sobre
 
-<p>Repositório para o Bootcamp Avanade Angular Developer, oferecido pela Digital Innovation One.</p>
+<p>Versão livre de um "clone" do Netflix.</p>
 
 ---
 
@@ -28,9 +28,9 @@
 
 As seguintes tecnologias estão sendo usadas na construção do projeto:
 
-| <strong> HTML5 </strong>                                                              | <strong> CSS3 </strong>                                                               | <strong> JavaScript </strong>                                                                      | <strong> Angular </strong>                                                                                                     |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> | <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> | <img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/> | <img height="30" src="https://user-images.githubusercontent.com/65127683/113470576-fd0ea780-942c-11eb-9fd1-dbb8ac0de186.png"/> |
+| <strong> HTML5 </strong>                                                              | <strong> CSS3 </strong>                                                               | <strong> JavaScript </strong>                                                                      |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> | <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> | <img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/> |
 
 ---
 
