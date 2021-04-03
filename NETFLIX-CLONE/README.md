@@ -1,4 +1,4 @@
-<h1 align = "center">:rocket: OlwFlix</h1>
+<h1 align = "center">🦉 OlwFlix</h1>
 
 <!--
 ## 🖥 Preview
