@@ -1,5 +1,5 @@
 :root {
-  --azul: #64dfdf;
+  --amarelo: #fec63e;
   --preto: #141414;
 }
 
@@ -28,13 +28,13 @@ header .logo {
   font-family: "Bebas Neue", Times;
   font-size: 50px;
   /*color: #6930c3;*/
-  color: var(--azul);
+  color: var(--amarelo);
   margin-left: 5px;
 }
 
 header nav a {
   text-decoration: none;
-  color: #acafaf;
+  color: #9b9a97;
   margin-right: 10px;
 }
 
