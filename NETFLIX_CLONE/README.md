@@ -1,12 +1,10 @@
 <h1 align = "center">🦉 OWLFLIX</h1>
 
-<!--
 ## 🖥 Preview
 
 <p align = "center">
-  <img src = "https://user-images.githubusercontent.com/65127683/106853898-30d18900-6699-11eb-8cf4-4bc95a5870a5.gif" height = "300">
+  <img src = "https://user-images.githubusercontent.com/65127683/113495277-c9805b80-94c6-11eb-9877-e73025f950c4.png" height = "300">
 </p>
--->
 
 ---
 
