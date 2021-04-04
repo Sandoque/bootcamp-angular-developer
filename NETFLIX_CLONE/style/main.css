@@ -9,6 +9,8 @@
   box-sizing: border-box;
 }
 
+/*elementos base*/
+
 body {
   background: var(--preto);
   font-family: "Times New Roman", Times, serif;
@@ -23,8 +25,8 @@ header .container {
 }
 
 header .logo {
-  font-family: "Bebas Neue", sans-serif;
-  font-size: 40px;
+  font-family: "Bebas Neue", Times;
+  font-size: 50px;
   /*color: #6930c3;*/
   color: var(--azul);
   margin-left: 5px;
@@ -38,4 +40,27 @@ header nav a {
 
 header nav a:hover {
   color: #fff;
+}
+
+/*Filme principal*/
+.filme-principal {
+  font-size: 16px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
+    url("/NETFLIX_CLONE/img/owl-principal.jpg");
+
+  height: 400px;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.filme-principal .descricao {
+  margin-bottom: 40px;
+}
+
+.titulo {
+  font-size: 40px;
 }
