@@ -19,6 +19,7 @@
 ## 📖 Sobre
 
 <p>Versão livre de um "clone" do Netflix.</p>
+<p>Criei a página principal de um projeto chamado OWLFLIX, baseado no NETFLIX, utilizando corujas como personagens principais dos cartazes de filmes.</p>
 
 ---
 
