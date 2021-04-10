@@ -17,6 +17,11 @@ body {
   color: white;
 }
 
+.container {
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
 header .container {
   display: flex;
   flex-direction: row;
@@ -29,7 +34,6 @@ header .logo {
   font-size: 40px;
   /*color: #6930c3;*/
   color: var(--amarelo);
-  margin-left: 5px;
 }
 
 header nav a {
@@ -59,8 +63,9 @@ header nav a:hover {
 }
 
 .filme-principal .container {
-  margin-left: 5px;
+  width: 70%;
 }
+
 
 .filme-principal .descricao {
   margin-top: 10px;
@@ -73,11 +78,7 @@ header nav a:hover {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.botoes {
-  margin-left: 5px;
-}
-
-.botao {
+.botoes .botao {
   background-color: rgba(0, 0, 0, 0.5);
   border: none;
   color: #fff;
@@ -90,11 +91,11 @@ header nav a:hover {
   transition: .3s;
 }
 
-.botao:hover {
+.botoes .botao:hover {
   background-color: #fff;
   color: black;
 }
 
-.botao i {
+.botoes .botao i {
   margin-right: 8px;
 }
