@@ -18,9 +18,9 @@
 
 As seguintes tecnologias estão sendo usadas na construção do projeto:
 
-| <strong> HTML5 </strong>                                                              | <strong> CSS3 </strong>                                                               | 
+| <strong> HTML5 </strong>                                                              | <strong> CSS3 </strong>                                                               | <strong> JavaScript </strong>                                                                      |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> | <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> | 
+| <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> | <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> | <img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/> |
 
 ---
 
