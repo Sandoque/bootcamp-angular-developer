@@ -1,4 +1,4 @@
-<h1 align = "center">🦉 Instagram clone</h1>
+<h1 align = "center">:camera: Instagram clone</h1>
 
 ## 🖥 Preview
 
