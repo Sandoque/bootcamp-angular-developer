@@ -27,9 +27,14 @@
 
 As seguintes tecnologias estão sendo usadas na construção do projeto:
 
-| <strong> HTML5 </strong>                                                              | <strong> CSS3 </strong>                                                               | 
+| <strong> HTML5 </strong>                                                              | <strong> CSS3 </strong>                                                               
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> | <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> | <img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>
+| <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> | <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> | 
+
+---
+
+<a href="https://www.linkedin.com/in/sandoque/">
+ <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/65127683/95398436-20bcbf00-08dc-11eb-95a3-d1aaedc987d0.jpg" width="100px;" alt=""/></a>
  <br />
  Developer By
  <a href="https://www.linkedin.com/in/sandoque/"> <b> Antônio Carlos Sandoque</b> </a> <a href="https://www.linkedin.com/in/sandoque/" title="Sandoque">🚀</a> <br />
